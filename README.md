@@ -2,4 +2,4 @@
 Git training for collaboration
 
 - clone : "downloading" a repository from a remote to a computer
-  - You only need to do this once. Just like this
+  - You only need to do this once. Just like the init command
