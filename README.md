@@ -5,3 +5,4 @@ Git training for collaboration
   - You only need to do this once. Just like the `init` command
 - `branch <name>`: create a branch called <name>
   - `checkout <name>` or `switch <name>`: to move `HEAD` (i.e., switch) to that branch
+  - This is a test on commit on a different branch
