@@ -6,3 +6,5 @@ Git training for collaboration
 - `branch <name>`: create a branch called <name>
   - `checkout <name>` or `switch <name>`: to move `HEAD` (i.e., switch) to that branch
   - This is a test on commit on a different branch
+  - `push <branch>` `pull <branch>`: we need to be more mindful which branch we want to push/pull and not automatically to master
+
